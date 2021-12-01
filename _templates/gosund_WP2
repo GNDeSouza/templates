@@ -18,3 +18,4 @@ The microcontroller is on the small PCB attached to the front panel with 2 screw
 
 There are clearly marked pads for 3v3, GND, TX, RX, GI0. 
 
+(note: I am still able to successfully program OTA using tuya-convert 2.4.3 -- i.e. without opening it.)
